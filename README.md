@@ -1,10 +1,11 @@
 # How to ask a good question
-
-## How do I ask a good question?
-Our community loves to help. To improve your chances of getting an answer, here are some tips:
+Our community loves to help and support developers of all stripes. To improve your chances of getting an answer, here are some tips:
 
 ## Search, and research
 ...and keep track of what you find. Even if you don't find a useful answer elsewhere on the site, including links to related questions that haven't helped can help others in understanding how your question is different from the rest.
+
+## Make sure you in the right place
+Are you in the correct channel? Are people there asking similar questions? Are you interrupting a current discussion?
 
 ## Summarize the specific problem
 The first thing potential answerers will see, if it isn't clear, they won't read the rest. So make it count:
