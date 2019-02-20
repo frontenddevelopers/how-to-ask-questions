@@ -16,18 +16,18 @@ Spelling, grammar and punctuation are important! Remember, this is the first par
 If you're having trouble summarizing the problem, write the title last - sometimes writing the rest of the question first can make it easier to describe the problem.
 
 ## Examples:
-**Bad:**hi everyone,
+**Bad:** hi everyone,
 npm WARN deprecated circular-json@0.5.9: CircularJSON is in maintenance only, flatted is its successor.
-npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.
-npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
 npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
 can  any one tell me how can i fix this issue
-Good: I'm recieving depedency errors when installing npm package [Name and Version].
+**Good:** I'm recieving depedency errors when installing npm package [Name and Version].
 
-Bad: [php] session doubt
-Good: How can I redirect users to different pages based on session data in PHP?
-Bad: Javascript if else problems
-Good: Why does str == "value" evaluate to false when str is set to "value"?
+**Bad:**[php] session doubt
+**Good:** How can I redirect users to different pages based on session data in PHP?
+
+**Bad:** Javascript if else problems
+**Good:** Why does str == "value" evaluate to false when str is set to "value"?
 
 ## Introduce the problem before you post any code
 In the body of your question, start by expanding on the summary you put in the title. Explain how you encountered the problem you're trying to solve, and any difficulties that have prevented you from solving it yourself. The first paragraph in your question is the second thing most readers will see, so make it as engaging and informative as possible.
