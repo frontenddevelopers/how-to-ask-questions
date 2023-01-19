@@ -1,18 +1,17 @@
-# How to ask a good question
-Our community loves to help and support developers of all stripes. To improve your chances of getting an answer, here are some tips:
+# Como fazer uma pergunta boa
+Nossa comunidade ama ajudar e apoiar pessoas desenvolvedoras de todos os tipos. Para aumentar as suas chances de receber uma boa resposta, aqui vão algumas dicas:
 
-## Search, and research
-...and keep track of what you find. Even if you don't find a useful answer elsewhere on the site, including links to related questions that haven't helped can help others in understanding how your question is different from the rest.
+## Procure e pesquise
+Mantenha registro das suas descobertas. Mesmo que você não encontre uma resposta para o seu problema, incluir links para perguntas semelhantes que não resolveram completamente o seu caso pode ajudar as pessoas a entender como a sua dúvida é diferente das outras.
 
-## Make sure you in the right place
-Are you in the correct channel? Are people there asking similar questions? Are you interrupting a current discussion?
+## Tenha certeza de estar no lugar certo
+Esse é o canal adequado para essa dúvida? Outras pessoas estão fazendo perguntas semelhantes? Você está interrompendo uma conversa em curso?
 
-## Summarize the specific problem
-The first thing potential answerers will see, if it isn't clear, they won't read the rest. So make it count:
+## Resuma o problema especificamente
+Essa é a primeira coisa que potenciais respondedores verão. Se o problema não for claro, eles não vão ler o resto. Então faça valer a pena, tenha zelo pelo tempo do outro.
+Finja que você está falando com um colega que está ocupado, e você precisa resumir toda sua dúvida em uma frase. Quais detalhes você pode incluir que irão ajudar alguém a identificar e resolver o seu problema? Inclua mensagens de erro, tecnologias utilizadas, ou circunstâncias atípicas que façam a sua pergunta ser diferente de outras perguntas já formuladas.
 
-Pretend you're talking to a busy colleague and have to sum up your entire question in one sentence: what details can you include that will help someone identify and solve your problem? Include any error messages, key APIs, or unusual circumstances that make your question different from similar questions already on the site.
-
-Spelling, grammar and punctuation are important! Remember, this is the first part of your question others will see - you want to make a good impression. If you're not comfortable writing in English, ask a friend to proof-read it for you.
+Atente para a organização, e evite erros de digitação, gramática e pontuação. Isso facilita a leitura e mostra que você respeita os seus interlocutores e está comprometido com a comunidade. Afinal, se você não gasta tempo revisando o que está escrevendo, por que os outros vão gastar tempo lendo o que você escreveu? Lembre-se: essa é a primeira parte da sua dúvida que os outros vão ver, e você quer causar uma boa impressão.
 
 If you're having trouble summarizing the problem, write the title last - sometimes writing the rest of the question first can make it easier to describe the problem.
 
