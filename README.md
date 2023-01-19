@@ -60,3 +60,12 @@ In spite of all your efforts, you may find your questions poorly-received. Don't
 How do I ask and answer homework questions?
 How to debug small programs
 Meta discussions on asking questions
+
+
+You’re more likely to get an answer to your questions if you provide:
+
+- A reduced test case of your code
+- A detailed outline of the issue you are facing
+- What you have tried
+- What isn’t working 
+- What your expected outcome is
