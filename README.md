@@ -17,6 +17,11 @@ Atente para a organização, e evite erros de digitação, gramática e pontuaç
 If you're having trouble summarizing the problem, write the title last - sometimes writing the rest of the question first can make it easier to describe the problem.
 
 ## Examples: Exemplos
+
+**Ruim** 
+Oi pessoal,
+
+
 **Bad:** hi everyone,
 npm WARN deprecated circular-json@0.5.9: CircularJSON is in maintenance only, flatted is its successor.
 npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
