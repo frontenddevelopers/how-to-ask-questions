@@ -24,14 +24,9 @@ Oi pessoal,
 npm WARN deprecated circular-json@0.5.9: CircularJSON is in maintenance only, flatted is its successor.
 npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
 npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+Alguém pode me dizer como resolver esse problema?
 
 
-
-
-**Bad:** hi everyone,
-npm WARN deprecated circular-json@0.5.9: CircularJSON is in maintenance only, flatted is its successor.
-npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
-npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
 can  any one tell me how can i fix this issue
 
 **Good:** I'm recieving depedency errors when installing npm package [Name and Version].
