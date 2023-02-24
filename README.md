@@ -76,3 +76,8 @@ You’re more likely to get an answer to your questions if you provide:
 - What you have tried
 - What isn’t working 
 - What your expected outcome is
+
+
+https://nohello.net/pt-br/
+
+https://dontasktoask.com/
