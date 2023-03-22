@@ -25,7 +25,7 @@ Exemplo: "Oi, pessoal! Boa tarde. Eu estou tendo um problema com o meu component
 
 
 ## Resuma o problema
-Comece sua eprgunta com um resumo do seu problema. Essa é a primeira coisa que potenciais respondedores verão. Se o problema não for claro, eles não vão ler o resto. Então faça valer a pena, tenha zelo pelo tempo do outro. Na sua pergunta, comece desenvolvendo o seu problema. Explique como você o identificou, e quais dificuldades encontrou ao tentar resolver.
+Comece sua pergunta com um resumo do seu problema. Essa é a primeira coisa que potenciais respondedores verão. Se o problema não for claro, eles não vão ler o resto. Então faça valer a pena, tenha zelo pelo tempo do outro. Na sua pergunta, comece desenvolvendo o seu problema. Explique como você o identificou, e quais dificuldades encontrou ao tentar resolver.
 
 Finja que você está falando com um colega que está ocupado, e você precisa resumir toda sua dúvida em uma frase. Quais detalhes você pode incluir que irão ajudar alguém a identificar e resolver o seu problema? Inclua mensagens de erro, tecnologias utilizadas, ou circunstâncias atípicas que façam a sua pergunta ser diferente de outras perguntas já formuladas.
 
