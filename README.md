@@ -1,22 +1,38 @@
 # Como fazer uma pergunta boa
 Nossa comunidade ama ajudar e apoiar pessoas desenvolvedoras de todos os tipos. Para aumentar as suas chances de receber uma boa resposta, aqui vão algumas dicas:
 
+## Resumo
+1) Pesquise e teste antes de perguntar;
+2) Certifique-se que está perguntando no canal correto;
+3) Pergunte de forma direta (não peça para perguntar);
+4) Forneça informações detalhadas sobre o seu problema;
+5) Se possível, crie um ambiente de teste com o seu problema
+
 ## Procure e pesquise
 Mantenha registro das suas descobertas. Mesmo que você não encontre uma resposta para o seu problema, incluir links para perguntas semelhantes que não resolveram completamente o seu caso pode ajudar as pessoas a entender como a sua dúvida é diferente das outras.
 
 ## Tenha certeza de estar no lugar certo
-Esse é o canal adequado para essa dúvida? Outras pessoas estão fazendo perguntas semelhantes? Você está interrompendo uma conversa em curso?
+Esse é o canal adequado para essa dúvida? Outras pessoas estão fazendo perguntas semelhantes?
 
-## Resuma o problema especificamente
-Essa é a primeira coisa que potenciais respondedores verão. Se o problema não for claro, eles não vão ler o resto. Então faça valer a pena, tenha zelo pelo tempo do outro.
+## Não peça para perguntar
+Não pergunte "Alguém aqui sabe a linguagem 'X'?". Em vez disso, apenas exponha a dúvida que você tem.
+
+Digamos que eu saiba alguma coisa de JavaScript. Quando eu leio a pergunta "Alguém aqui sabe JavaScript?" minha resposta mental é "Depende". Depende de qual problema é para resolver. Digamos ainda que eu não saiba muito bem PHP, mas vejo uma pergunta que por coincidência eu sei a resposta. Se essa pessoa tivesse perguntado "Quem aí sabe PHP?" eu jamais poderia ajudar.
+
+Além disso, evite mandar "Oi", "Bom dia" sem o resto da pergunta. Você pode ser educado e conciso ao mesmo tempo.
+
+Exemplo: "Oi, pessoal! Boa tarde. Eu estou tendo um problema com o meu componente etc..."
+
+
+## Resuma o problema
+Comece sua eprgunta com um resumo do seu problema. Essa é a primeira coisa que potenciais respondedores verão. Se o problema não for claro, eles não vão ler o resto. Então faça valer a pena, tenha zelo pelo tempo do outro. Na sua pergunta, comece desenvolvendo o seu problema. Explique como você o identificou, e quais dificuldades encontrou ao tentar resolver.
+
 Finja que você está falando com um colega que está ocupado, e você precisa resumir toda sua dúvida em uma frase. Quais detalhes você pode incluir que irão ajudar alguém a identificar e resolver o seu problema? Inclua mensagens de erro, tecnologias utilizadas, ou circunstâncias atípicas que façam a sua pergunta ser diferente de outras perguntas já formuladas.
 
 Atente para a organização, e evite erros de digitação, gramática e pontuação. Isso facilita a leitura e mostra que você respeita os seus interlocutores e está comprometido com a comunidade. Afinal, se você não gasta tempo revisando o que está escrevendo, por que os outros vão gastar tempo lendo o que você escreveu? Lembre-se: essa é a primeira parte da sua dúvida que os outros vão ver, e você quer causar uma boa impressão.
 
 
-If you're having trouble summarizing the problem, write the title last - sometimes writing the rest of the question first can make it easier to describe the problem.
-
-## Examples: Exemplos
+### Exemplos
 
 **Ruim** 
 Oi pessoal,
@@ -24,60 +40,23 @@ Oi pessoal,
 npm WARN deprecated circular-json@0.5.9: CircularJSON is in maintenance only, flatted is its successor.
 npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
 npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
 Alguém pode me dizer como resolver esse problema?
 
+**Bom** Estou recebendo um erro [ERRO] quando tento instalar o npm package [VERSÃO].
 
-can  any one tell me how can i fix this issue
+**Ruim:** Problema com if else no JavaScript
 
-**Good:** I'm recieving depedency errors when installing npm package [Name and Version].
+**Good:** Estou tentando executar o if else da seguinte maneira [EXEMPLO], eu gostaria que ele desse como resultado X, mas não retorna nada.
 
-**Bad:**[php] session doubt
+## Ajude os outros a reproduzir o seu problema
+Nem todos os problemas tem a ver com código, mas se seu problema é com um código que você escreveu, você deve compartilhá-lo. Mas não apenas copie e cole todo o código que você tem. Você não quer que a pessoa que está tentando te ajudar passe por linhas e linhas de código não relacionado ao seu problema. Algumas dicas:
 
-**Good:** How can I redirect users to different pages based on session data in PHP?
+Inclua a quantidade certa de código que permita aos outros reproduzirem o seu problema. 
 
+Se for possível, crie um exemplo do problema que seja executável (um fragmento do código no codepen, por exemplo).
 
-**Bad:** Javascript if else problems
+Não mande fotos do código, mensagens de erro e etc. Copie ou digite o texto na sua pergunta. Apenas utilize imagens para casos em que não seja possíve reproduzir facilmente por texto (a estrutura de diretórios usada no seu projeto, por exemplo).
 
-**Good:** Why does str == "value" evaluate to false when str is set to "value"?
-
-## Introduce the problem before you post any code
-In the body of your question, start by expanding on the summary you put in the title. Explain how you encountered the problem you're trying to solve, and any difficulties that have prevented you from solving it yourself. The first paragraph in your question is the second thing most readers will see, so make it as engaging and informative as possible.
-
-## Help others reproduce the problem
-Not all questions benefit from including code. But if your problem is with code you've written, you should include some. But don't just copy in your entire program! Not only is this likely to get you in trouble if you're posting your employer's code, it likely includes a lot of irrelevant details that readers will need to ignore when trying to reproduce the problem. Here are some guidelines:
-
-Include just enough code to allow others to reproduce the problem. For help with this, read How to create a Minimal, Complete, and Verifiable example.
-
-If it is possible to create a live example of the problem that you can link to (for example, on http://sqlfiddle.com/ or http://jsbin.com/) then do so - but also copy the code into the question itself. Not everyone can access external sites, and the links may break over time. Use Stack Snippets to make a live demo of inline JavaScript / HTML / CSS.
-DO NOT post images of code, data, error messages, etc. - copy or type the text into the question. Please reserve the use of images for diagrams or demonstrating rendering bugs, things that are impossible to describe accurately via text.
-
-## Include all relevant information
-Try to include a informations and versions for the language, library, and specific API your question relates to
-
-## Proof-read before posting!
-Now that you're ready to ask your question, take a deep breath and read through it from start to finish. Pretend you're seeing it for the first time: does it make sense? Try reproducing the problem yourself, in a fresh environment and make sure you can do so using only the information included in your question. Add any details you missed and read through it again. Now is a good time to make sure that your title still describes the problem!
-
-## Post the question and respond to feedback
-After you post, leave the question open in your browser for a bit, and see if anyone comments. If you missed an obvious piece of information, be ready to respond by editing your question to include it. If someone posts an answer, be ready to try it out and provide feedback!
-
-## Look for help asking for help
-In spite of all your efforts, you may find your questions poorly-received. Don't despair! Learning to ask a good question is a worthy pursuit, and not one you'll master overnight. Here are some additional resources that you may find useful:
-
-## Writing the perfect question
-How do I ask and answer homework questions?
-How to debug small programs
-Meta discussions on asking questions
-
-
-You’re more likely to get an answer to your questions if you provide:
-
-- A reduced test case of your code
-- A detailed outline of the issue you are facing
-- What you have tried
-- What isn’t working 
-- What your expected outcome is
-
-
-https://nohello.net/pt-br/
-
-https://dontasktoask.com/
+## Após perguntar, acompanhe as respostas
+Depois de perguntar, fique de olho nas respostas. Pode ser que você tenha esquecido alguma informação importante, e você pode perder a oportunidade de esclarecer algum ponto. Não envie sua pergunta e suma. Se alguém te responder, esteja pronto para testar e dar feedback. Não faça uma pergunta se você não puder implementar as sugestões naquele momento.
