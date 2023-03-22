@@ -34,7 +34,7 @@ Atente para a organização, e evite erros de digitação, gramática e pontuaç
 
 ### Exemplos
 
-**Ruim** 
+**Ruim:** 
 Oi pessoal,
 
 npm WARN deprecated circular-json@0.5.9: CircularJSON is in maintenance only, flatted is its successor.
@@ -43,11 +43,11 @@ npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@
 
 Alguém pode me dizer como resolver esse problema?
 
-**Bom** Estou recebendo um erro [ERRO] quando tento instalar o npm package [VERSÃO].
+**Bom:** Estou recebendo um erro [ERRO] quando tento instalar o npm package [VERSÃO].
 
 **Ruim:** Problema com if else no JavaScript
 
-**Good:** Estou tentando executar o if else da seguinte maneira [EXEMPLO], eu gostaria que ele desse como resultado X, mas não retorna nada.
+**Bom:** Estou tentando executar o if else da seguinte maneira [EXEMPLO], eu gostaria que ele desse como resultado X, mas não retorna nada.
 
 ## Ajude os outros a reproduzir o seu problema
 Nem todos os problemas tem a ver com código, mas se seu problema é com um código que você escreveu, você deve compartilhá-lo. Mas não apenas copie e cole todo o código que você tem. Você não quer que a pessoa que está tentando te ajudar passe por linhas e linhas de código não relacionado ao seu problema. Algumas dicas:
