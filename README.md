@@ -6,7 +6,8 @@ Nossa comunidade ama ajudar e apoiar pessoas desenvolvedoras de todos os tipos. 
 2) Certifique-se que está perguntando no canal correto;
 3) Pergunte de forma direta (não peça para perguntar);
 4) Forneça informações detalhadas sobre o seu problema;
-5) Se possível, crie um ambiente de teste com o seu problema
+5) Ajude os outros a reproduzir o seu erro;
+6) Acompanhe as respostas
 
 ## Procure e pesquise
 Mantenha registro das suas descobertas. Mesmo que você não encontre uma resposta para o seu problema, incluir links para perguntas semelhantes que não resolveram completamente o seu caso pode ajudar as pessoas a entender como a sua dúvida é diferente das outras.
